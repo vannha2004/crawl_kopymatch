@@ -1,0 +1,707 @@
+{
+  "source": "coinmarketcap",
+  "generated_at": "2026-04-30T15:01:19.381Z",
+  "exchange_count": 100,
+  "exchanges": [
+    {
+      "rank": 1,
+      "name": "Binance",
+      "volume": "$8,339,112,949",
+      "markets": 2058,
+      "url": "https://coinmarketcap.com/exchanges/binance/"
+    },
+    {
+      "rank": 2,
+      "name": "Coinbase Exchange",
+      "volume": "$1,743,456,030",
+      "markets": 521,
+      "url": "https://coinmarketcap.com/exchanges/coinbase-exchange/"
+    },
+    {
+      "rank": 3,
+      "name": "Upbit",
+      "volume": "$1,116,137,496",
+      "markets": 726,
+      "url": "https://coinmarketcap.com/exchanges/upbit/"
+    },
+    {
+      "rank": 4,
+      "name": "OKX",
+      "volume": "$1,627,650,623",
+      "markets": 1477,
+      "url": "https://coinmarketcap.com/exchanges/okx/"
+    },
+    {
+      "rank": 5,
+      "name": "Bybit",
+      "volume": "$1,927,975,319",
+      "markets": 1210,
+      "url": "https://coinmarketcap.com/exchanges/bybit/"
+    },
+    {
+      "rank": 6,
+      "name": "Bitget",
+      "volume": "$1,067,550,552",
+      "markets": 1225,
+      "url": "https://coinmarketcap.com/exchanges/bitget/"
+    },
+    {
+      "rank": 7,
+      "name": "Gate",
+      "volume": "$1,574,885,503",
+      "markets": 2471,
+      "url": "https://coinmarketcap.com/exchanges/gate/"
+    },
+    {
+      "rank": 8,
+      "name": "KuCoin",
+      "volume": "$1,903,665,083",
+      "markets": 1662,
+      "url": "https://coinmarketcap.com/exchanges/kucoin/"
+    },
+    {
+      "rank": 9,
+      "name": "MEXC",
+      "volume": "$1,052,775,365",
+      "markets": 3106,
+      "url": "https://coinmarketcap.com/exchanges/mexc/"
+    },
+    {
+      "rank": 10,
+      "name": "HTX",
+      "volume": "$1,137,455,577",
+      "markets": 886,
+      "url": "https://coinmarketcap.com/exchanges/htx/"
+    },
+    {
+      "rank": 11,
+      "name": "Crypto.com Exchange",
+      "volume": "$1,694,700,144",
+      "markets": 883,
+      "url": "https://coinmarketcap.com/exchanges/crypto-com-exchange/"
+    },
+    {
+      "rank": 12,
+      "name": "Bitfinex",
+      "volume": "$316,234,712",
+      "markets": 234,
+      "url": "https://coinmarketcap.com/exchanges/bitfinex/"
+    },
+    {
+      "rank": 13,
+      "name": "BingX",
+      "volume": "$702,481,165",
+      "markets": 1449,
+      "url": "https://coinmarketcap.com/exchanges/bingx/"
+    },
+    {
+      "rank": 14,
+      "name": "Kraken",
+      "volume": "$993,062,091",
+      "markets": 1804,
+      "url": "https://coinmarketcap.com/exchanges/kraken/"
+    },
+    {
+      "rank": 15,
+      "name": "Binance TR",
+      "volume": "$190,119,505",
+      "markets": 315,
+      "url": "https://coinmarketcap.com/exchanges/binance-tr/"
+    },
+    {
+      "rank": 16,
+      "name": "BitMart",
+      "volume": "$4,811,749,461",
+      "markets": 1749,
+      "url": "https://coinmarketcap.com/exchanges/bitmart/"
+    },
+    {
+      "rank": 17,
+      "name": "LBank",
+      "volume": "$1,778,901,166",
+      "markets": 1388,
+      "url": "https://coinmarketcap.com/exchanges/lbank/"
+    },
+    {
+      "rank": 18,
+      "name": "Bitstamp by Robinhood",
+      "volume": "$211,340,058",
+      "markets": 260,
+      "url": "https://coinmarketcap.com/exchanges/bitstamp/"
+    },
+    {
+      "rank": 19,
+      "name": "Bithumb",
+      "volume": "$508,940,850",
+      "markets": 464,
+      "url": "https://coinmarketcap.com/exchanges/bithumb/"
+    },
+    {
+      "rank": 20,
+      "name": "XT.COM",
+      "volume": "$1,636,089,944",
+      "markets": 1621,
+      "url": "https://coinmarketcap.com/exchanges/xt/"
+    },
+    {
+      "rank": 21,
+      "name": "Tokocrypto",
+      "volume": "$8,482,473",
+      "markets": 676,
+      "url": "https://coinmarketcap.com/exchanges/tokocrypto/"
+    },
+    {
+      "rank": 22,
+      "name": "bitFlyer",
+      "volume": "$55,539,950",
+      "markets": 14,
+      "url": "https://coinmarketcap.com/exchanges/bitflyer/"
+    },
+    {
+      "rank": 23,
+      "name": "Binance.US",
+      "volume": "$4,901,094",
+      "markets": 198,
+      "url": "https://coinmarketcap.com/exchanges/binance-us/"
+    },
+    {
+      "rank": null,
+      "name": "Gemini",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/gemini/"
+    },
+    {
+      "rank": null,
+      "name": "Toobit",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/toobit/"
+    },
+    {
+      "rank": null,
+      "name": "Pionex",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/pionex/"
+    },
+    {
+      "rank": null,
+      "name": "Biconomy.com",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/biconomy/"
+    },
+    {
+      "rank": null,
+      "name": "CoinW",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/coinw/"
+    },
+    {
+      "rank": null,
+      "name": "Ourbit",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/ourbit/"
+    },
+    {
+      "rank": null,
+      "name": "KCEX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/kcex/"
+    },
+    {
+      "rank": null,
+      "name": "BTCC",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/btcc/"
+    },
+    {
+      "rank": null,
+      "name": "Deepcoin",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/deepcoin/"
+    },
+    {
+      "rank": null,
+      "name": "WEEX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/weex/"
+    },
+    {
+      "rank": null,
+      "name": "Binance TH",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/binance-th/"
+    },
+    {
+      "rank": null,
+      "name": "CoinEx",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/coinex/"
+    },
+    {
+      "rank": null,
+      "name": "Zoomex",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/zoomex/"
+    },
+    {
+      "rank": null,
+      "name": "BVOX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bvox/"
+    },
+    {
+      "rank": null,
+      "name": "Bitunix",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bitunix/"
+    },
+    {
+      "rank": null,
+      "name": "MGBX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/mgbx/"
+    },
+    {
+      "rank": null,
+      "name": "Poloniex",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/poloniex/"
+    },
+    {
+      "rank": null,
+      "name": "BigONE",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bigone/"
+    },
+    {
+      "rank": null,
+      "name": "Hibt",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/hibt/"
+    },
+    {
+      "rank": null,
+      "name": "OrangeX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/orangex/"
+    },
+    {
+      "rank": null,
+      "name": "BiFinance",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bifinance-exchange/"
+    },
+    {
+      "rank": null,
+      "name": "Echobit",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/echobit/"
+    },
+    {
+      "rank": null,
+      "name": "FameEX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/fameex/"
+    },
+    {
+      "rank": null,
+      "name": "Phemex",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/phemex/"
+    },
+    {
+      "rank": null,
+      "name": "Azbit",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/azbit/"
+    },
+    {
+      "rank": null,
+      "name": "Bitvavo",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bitvavo/"
+    },
+    {
+      "rank": null,
+      "name": "Coincheck",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/coincheck/"
+    },
+    {
+      "rank": null,
+      "name": "Tapbit",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/tapbit/"
+    },
+    {
+      "rank": null,
+      "name": "WhiteBIT",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/whitebit/"
+    },
+    {
+      "rank": null,
+      "name": "CoinUp.io",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/coinup-io/"
+    },
+    {
+      "rank": null,
+      "name": "UZX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/uzx/"
+    },
+    {
+      "rank": null,
+      "name": "Coinstore",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/coinstore/"
+    },
+    {
+      "rank": null,
+      "name": "HashKey Global",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/hashkey-global/"
+    },
+    {
+      "rank": null,
+      "name": "Zaif",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/zaif/"
+    },
+    {
+      "rank": null,
+      "name": "Bitbaby",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bitbabyexchange/"
+    },
+    {
+      "rank": null,
+      "name": "LATOKEN",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/latoken/"
+    },
+    {
+      "rank": null,
+      "name": "P2B",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/p2b/"
+    },
+    {
+      "rank": null,
+      "name": "YUBIT",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/yubit/"
+    },
+    {
+      "rank": null,
+      "name": "Bitrue",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bitrue/"
+    },
+    {
+      "rank": null,
+      "name": "Websea",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/websea/"
+    },
+    {
+      "rank": null,
+      "name": "Bitso",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bitso/"
+    },
+    {
+      "rank": null,
+      "name": "Coinone",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/coinone/"
+    },
+    {
+      "rank": null,
+      "name": "AscendEX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/ascendex/"
+    },
+    {
+      "rank": null,
+      "name": "CrypFine",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/crypfine/"
+    },
+    {
+      "rank": null,
+      "name": "Dex-Trade",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/dex-trade/"
+    },
+    {
+      "rank": null,
+      "name": "Bitkub",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bitkub/"
+    },
+    {
+      "rank": null,
+      "name": "Bitbank",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bitbank/"
+    },
+    {
+      "rank": null,
+      "name": "CoinChief",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/coinchief/"
+    },
+    {
+      "rank": null,
+      "name": "Luno",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/luno/"
+    },
+    {
+      "rank": null,
+      "name": "BTSE",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/btse/"
+    },
+    {
+      "rank": null,
+      "name": "Hotcoin",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/hotcoin-global/"
+    },
+    {
+      "rank": null,
+      "name": "BitMEX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bitmex/"
+    },
+    {
+      "rank": null,
+      "name": "HashKey Exchange",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/hashkey-exchange/"
+    },
+    {
+      "rank": null,
+      "name": "BtcTurk | Kripto",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/btcturk-kripto/"
+    },
+    {
+      "rank": null,
+      "name": "Backpack Exchange",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/backpack-exchange/"
+    },
+    {
+      "rank": null,
+      "name": "C-Patex",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/c-patex/"
+    },
+    {
+      "rank": null,
+      "name": "PointPay",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/pointpay/"
+    },
+    {
+      "rank": null,
+      "name": "VOOX Exchange",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/voox-exchange/"
+    },
+    {
+      "rank": null,
+      "name": "EXMO",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/exmo/"
+    },
+    {
+      "rank": null,
+      "name": "Bit2Me",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bit2me/"
+    },
+    {
+      "rank": null,
+      "name": "MAX Exchange",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/max-exchange/"
+    },
+    {
+      "rank": null,
+      "name": "BloFin",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/blofin/"
+    },
+    {
+      "rank": null,
+      "name": "CEX.IO",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/cex-io/"
+    },
+    {
+      "rank": null,
+      "name": "Korbit",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/korbit/"
+    },
+    {
+      "rank": null,
+      "name": "Mercado Bitcoin",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/mercado-bitcoin/"
+    },
+    {
+      "rank": null,
+      "name": "BitradeX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bitradex/"
+    },
+    {
+      "rank": null,
+      "name": "BitoPro",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bitopro/"
+    },
+    {
+      "rank": null,
+      "name": "Koinbay",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/koinbay/"
+    },
+    {
+      "rank": null,
+      "name": "OKJ",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/okcoin-japan/"
+    },
+    {
+      "rank": null,
+      "name": "Paribu",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/paribu/"
+    },
+    {
+      "rank": null,
+      "name": "Indodax",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/indodax/"
+    },
+    {
+      "rank": null,
+      "name": "SecondBTC",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/secondbtc/"
+    },
+    {
+      "rank": null,
+      "name": "BitTrade",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/bittrade/"
+    },
+    {
+      "rank": null,
+      "name": "WOO X",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/woox/"
+    },
+    {
+      "rank": null,
+      "name": "AstralX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/astralx/"
+    },
+    {
+      "rank": null,
+      "name": "AllinX",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/all-inx/"
+    },
+    {
+      "rank": null,
+      "name": "DigiFinex",
+      "volume": null,
+      "markets": null,
+      "url": "https://coinmarketcap.com/exchanges/digifinex/"
+    }
+  ]
+}

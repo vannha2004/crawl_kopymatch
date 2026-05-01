@@ -1,0 +1,2176 @@
+{
+  "source": "propfirmmatch",
+  "crawl_type": "propfirm_leaderboard",
+  "crawl_started_at": "2026-04-30T16:20:09.119Z",
+  "crawl_finished_at": "2026-04-30T16:29:37.720Z",
+  "total_firms": 31,
+  "successful_firms": 31,
+  "failed_firms": 0,
+  "version": "1.0.0",
+  "firms": [
+    {
+      "firm_name": "FundingPips",
+      "slug": "funding-pips",
+      "profile_url": "https://propfirmmatch.com/prop-firms/funding-pips",
+      "website_url": null,
+      "country": "AE",
+      "list_metrics": {
+        "years_in_operation": 3,
+        "star_point": null,
+        "review_count": 1035,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "cTrader"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryFundingPips Firm AI SummaryFundingPips, based in the United Arab Emirates and established in November 2022, offers CFD trading and runs Instant, 1 Step and 2 Steps programs. Account sizes are reported from $5,000 to $100,000. Platforms supported include Match Trader, cTrader and MT5. Tradable instruments listed include Forex, cryptocurrency, indices, metals and energies, with headline leverages reported as 1:100 for Forex, 1:50 for metals and energies, 1:30 for indices and 1:2 for cryptocurrency. The firm has a review...Show MoreFirm OverviewBroker:Liquidity ProviderPlatform:cTraderMatch TraderMT5Payment Methods:Apple PayAstropayBank TransferCredit/Debit CardCryptoGoogle PayNetellerPayPalPaysafe CardSkrillPayout Methods:Bank TransferCryptoMastercardRiseworksVisa Direct",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.63,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/funding-pips",
+        "crawled_at": "2026-04-30T16:20:24.501Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\funding-pips.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "The5ers",
+      "slug": "the-5-ers",
+      "profile_url": "https://propfirmmatch.com/prop-firms/the-5-ers",
+      "website_url": null,
+      "country": "GB",
+      "list_metrics": {
+        "years_in_operation": 10,
+        "star_point": null,
+        "review_count": 1155,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "MetaTrader 5",
+          "cTrader"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryThe5ers Firm AI SummaryThe5ers, based in the United Kingdom and established January 2016, offers CFD trading with 1 Step, 2 Steps and 3 Steps program options. Account sizes range from $5,000 to $250,000. Supported platforms include cTrader and MT5. Tradable instruments include Forex, Metals and Indices; the firm publishes different leverage levels across programs (Hyper Growth 1:30, Bootcamp 1:10, High Stakes 1:100). The firm’s evaluation process includes 1 Step, 2 Step and 3 Step paths. The5ers has a review score of...Show MoreFirm OverviewBroker:Commercial Liquidity ProviderPlatform:cTraderMT5Payment Methods:Apple PayBank TransferCredit/Debit CardCryptoGoogle PayPayPalPayout Methods:Bank TransferCryptoRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": null,
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.58,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": [
+          "profile_detail.rules: all sub-fields are null"
+        ]
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/the-5-ers",
+        "crawled_at": "2026-04-30T16:20:40.813Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\the-5-ers.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Goat Funded Trader",
+      "slug": "goat-funded-trader",
+      "profile_url": "https://propfirmmatch.com/prop-firms/goat-funded-trader",
+      "website_url": null,
+      "country": "HK",
+      "list_metrics": {
+        "years_in_operation": 2,
+        "star_point": null,
+        "review_count": 802,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT4",
+          "MT5",
+          "cTrader",
+          "TradeLocker"
+        ],
+        "max_allocation": null,
+        "profit_split": 80,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryGoat Funded Trader Firm AI SummaryGoat Funded Trader, based in Hong Kong and established June 2023, offers CFD programs with Instant, 1 Step, and 2 Steps evaluation paths. Account sizes range from $8,000 to $200,000, and the firm supports Match Trader, cTrader, Volumetrica FX, MT5, and TradeLocker. Tradable instruments include Forex, Commodities, Indices, Equities, and Cryptocurrencies; Classic and No Time Limit Evaluations provide up to 1:100 leverage for Forex, Metals, and Oils, 1:20 for Indices and Commodities, and 1:2 for...Show MoreFirm OverviewBroker:Liquidity ProviderPlatform:cTraderMatch TraderMT5TradeLockerVolumetrica FXPayment Methods:Apple PayAstropayCredit/Debit CardCryptoGoogle PayIMPSKorapayPayPalPayout Methods:CryptoRiseworksSkrill",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.68,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/goat-funded-trader",
+        "crawled_at": "2026-04-30T16:20:59.370Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\goat-funded-trader.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "BrightFunded",
+      "slug": "brightfunded",
+      "profile_url": "https://propfirmmatch.com/prop-firms/brightfunded",
+      "website_url": null,
+      "country": "AE",
+      "list_metrics": {
+        "years_in_operation": 2,
+        "star_point": null,
+        "review_count": 103,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "cTrader"
+        ],
+        "max_allocation": null,
+        "profit_split": 80,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryBrightFunded Firm AI SummaryBrightFunded, based in the United Arab Emirates and established in September 2023, offers CFD and crypto instruments and operates a 2 Steps program. The firm supports trading via cTrader, MT5 and the BrightFunded Platform (DxTrade). Its public reputation shows a review score of 4.5 out of 5 from 103 reviews. BrightFunded’s published profile highlights the combination of CFD and cryptocurrency trading across multiple platforms under a two-step program structure. This overview reflects the firm's...Show MoreFirm OverviewBroker:Datafeed ProviderExchange:BinanceBybitCoinbaseKrakenIntegration:SimulatedExecution:SimulatedPlatform:BrightFunded Platform (DxTrade)cTraderMT5Payment Methods:Apple PayCredit/Debit CardCryptoGoogle PayPayPalPayout Methods:Bank TransferCrypto",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.68,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/brightfunded",
+        "crawled_at": "2026-04-30T16:21:20.655Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\brightfunded.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Blueberry Funded",
+      "slug": "blueberry-funded",
+      "profile_url": "https://propfirmmatch.com/prop-firms/blueberry-funded",
+      "website_url": null,
+      "country": "VU",
+      "list_metrics": {
+        "years_in_operation": 1,
+        "star_point": null,
+        "review_count": 392,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "TradeLocker"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryBlueberry Funded Firm AI SummaryBlueberry Funded is a proprietary trading firm based in VU, established in August 2024. It offers CFD trading with three program types: 1 Step, 2 Steps, and Instant. Supported trading platforms are MT5 and TradeLocker, which the firm provides for accessing its programs. Blueberry Funded has a review score of 3.8 out of 5 from 391 reviews. The firm offers multiple CFD program paths across two supported platforms and carries a documented review score of 3.8/5 from 391 reviews.Firm OverviewBroker:Blueberry MarketsPlatform:MT5TradeLockerPayment Methods:Credit/Debit CardCryptoGcashIMPSNGN Bank TransferUPI Payment Payout Methods:Broker Profit TransferCryptoRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": null,
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.58,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": [
+          "profile_detail.rules: all sub-fields are null"
+        ]
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/blueberry-funded",
+        "crawled_at": "2026-04-30T16:21:36.682Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\blueberry-funded.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Alpha Capital",
+      "slug": "alpha-capital-group",
+      "profile_url": "https://propfirmmatch.com/prop-firms/alpha-capital-group",
+      "website_url": null,
+      "country": "GB",
+      "list_metrics": {
+        "years_in_operation": 4,
+        "star_point": null,
+        "review_count": 882,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "cTrader",
+          "TradeLocker"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryAlpha Capital Firm AI SummaryAlpha Capital, based in the United Kingdom, was established in November 2021. The firm offers CFDs and operates 1 Step, 2 Steps and 3 Steps programs. Account sizes range from $25,000 to $200,000. Supported platforms include cTrader, MT5, DXTrade and TradeLocker. Tradable assets include forex, commodities and indices, with leverage available up to 100:1. Alpha Capital holds a 4.4/5 review score from 882 reviews. The firm presents a multi-step evaluation structure, a range of account sizes and...Show MoreFirm OverviewBroker:ACG MarketsPlatform:cTraderDXTradeMT5TradeLockerPayment Methods:Apple PayCredit/Debit CardCryptoGoogle PayPayPalPayout Methods:Bank TransferRiseworksWise",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.63,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/alpha-capital-group",
+        "crawled_at": "2026-04-30T16:21:53.300Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\alpha-capital-group.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "FundedNext",
+      "slug": "fundednext",
+      "profile_url": "https://propfirmmatch.com/prop-firms/fundednext",
+      "website_url": null,
+      "country": "AE",
+      "list_metrics": {
+        "years_in_operation": 4,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT4",
+          "MT5",
+          "MetaTrader 4",
+          "MetaTrader 5",
+          "cTrader"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryFundedNext Firm AI SummaryFundedNext, based in the United Arab Emirates, was established in March 2022. The firm offers CFD instruments and three program types: 1 Step, 2 Steps and Instant. Account sizes range from $6,000 to $200,000. Platforms supported include Match Trader, MT5, MT4 and cTrader. Tradable markets include Forex pairs (examples: EURUSD, GBPJPY), precious metals (XAGUSD, XAUUSD) and indices such as AUS200, GER30 and SPX500. FundedNext has a review score of 4.3/5 based on 741 reviews. FundedNext operates...Show MoreFirm OverviewBroker:Institutional Liquidity ProviderPlatform:Match TraderMT4MT5Payment Methods:Apple PayAstropayCredit/Debit CardCryptoGoogle PayPayPalPerfect MoneySkrillTC PayPayout Methods:CryptoRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.63,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/fundednext",
+        "crawled_at": "2026-04-30T16:22:10.023Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\fundednext.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Trade The Pool",
+      "slug": "trade-the-pool",
+      "profile_url": "https://propfirmmatch.com/prop-firms/trade-the-pool",
+      "website_url": null,
+      "country": "IL",
+      "list_metrics": {
+        "years_in_operation": 3,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "Firm OverviewBroker:Interactive BrokersPlatform:TraderEvolutionPayment Methods:Apple PayCredit/Debit CardCryptoGoogle PayPayPalPayout Methods:Bank Wire TransferCryptoHub Credit",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": null,
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.54,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.platforms",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": [
+          "profile_detail.rules: all sub-fields are null"
+        ]
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/trade-the-pool",
+        "crawled_at": "2026-04-30T16:22:27.280Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\trade-the-pool.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Blue Guardian",
+      "slug": "blue-guardian",
+      "profile_url": "https://propfirmmatch.com/prop-firms/blue-guardian",
+      "website_url": null,
+      "country": "AE",
+      "list_metrics": {
+        "years_in_operation": 4,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "TradeLocker"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryBlue Guardian Firm AI SummaryBlue Guardian, based in the United Arab Emirates, was established in June 2021. The firm offers CFD instruments and provides multiple program types, listed as Instant, 1 Step, 2 Steps, and 3 Steps. Supported trading platforms are Match Trader, MT5, and TradeLocker. Blue Guardian has a review score of 4.4 out of 5 based on 202 reviews, serving as the available reputation snapshot. The information above describes the firm's offered product type, program structure, platform support, and reported...Show MoreFirm OverviewBroker:Institutional Liquidity ProviderPlatform:Match TraderMT5TradeLockerPayment Methods:Apple PayCredit/Debit CardCryptoGoogle PayPayout Methods:CryptoRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.63,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/blue-guardian",
+        "crawled_at": "2026-04-30T16:22:44.236Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\blue-guardian.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "E8 Markets",
+      "slug": "e8-markets",
+      "profile_url": "https://propfirmmatch.com/prop-firms/e8-markets",
+      "website_url": null,
+      "country": "US",
+      "list_metrics": {
+        "years_in_operation": 4,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "cTrader",
+          "TradeLocker"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryE8 Markets Firm AI SummaryE8 Markets, based in the United States, was established in November 2021. The firm offers CFD programs with 1‑Step, 2‑Step and 3‑Step options. Account sizes range from $25,000 to $250,000. Platforms include Match Trader, cTrader, MT5, MT4 and TradeLocker. Tradable assets are Forex, Commodities, Indexes and Cryptocurrencies; leverage is available up to 1:50 for majors, exotics and cryptocurrencies. Evaluation targets are: 2‑step — 8% (Phase 1) and 5% (Phase 2); 3‑step — 8%, 5% and an additional...Show MoreFirm OverviewBroker:Liquidity ProviderPlatform:cTraderMatch TraderMT5TradeLockerPayment Methods:Apple PayCredit/Debit CardCryptoGoogle PayNuveiPayout Methods:RiseworksWorkMarket",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.63,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/e8-markets",
+        "crawled_at": "2026-04-30T16:23:05.348Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\e8-markets.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Maven",
+      "slug": "maven-trading",
+      "profile_url": "https://propfirmmatch.com/prop-firms/maven-trading",
+      "website_url": null,
+      "country": "LC",
+      "list_metrics": {
+        "years_in_operation": 3,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT4",
+          "MT5"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryMaven Firm AI SummaryMaven, based in St.Lucia, was established in November 2022. It offers CFD trading and program types including 1 Step, 2 Steps, and Instant. Account sizes range from $2,000 to $200,000. Platforms supported include Match Trader, MT5 and MT4. Tradable instruments listed include major forex pairs such as EURUSD and GBPUSD, XAUUSD (Gold/US Dollar), and indices US30 and UK100; stated leverage is 30:1 across instruments. The firm has a review score of 4.3/5 based on 699 reviews. Maven provides...Show MoreFirm OverviewBroker:Datafeed ProviderPlatform:Match TraderMT5Payment Methods:Credit/Debit CardCryptoKorapayUPI Payment Payout Methods:Bank TransferCryptoRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.63,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/maven-trading",
+        "crawled_at": "2026-04-30T16:23:20.933Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\maven-trading.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "FundedElite",
+      "slug": "fundedelite",
+      "profile_url": "https://propfirmmatch.com/prop-firms/fundedelite",
+      "website_url": null,
+      "country": "IT",
+      "list_metrics": {
+        "years_in_operation": 2,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "TradeLocker"
+        ],
+        "max_allocation": null,
+        "profit_split": 60,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryFundedElite Firm AI SummaryFundedElite, based in Italy, was established in November 2023. The firm offers CFD trading and provides Instant, 1 Step, and 2 Steps program types. Platforms supported are Match Trader, MT5, and TradeLocker. FundedElite states it introduced a Free Retry Model in 2023 that gives a free challenge account to traders who breach their initial one and continues to offer this at no cost. Every account includes access to an analytics and journaling dashboard for tracking metrics, comparing accounts,...Show MoreFirm OverviewBroker:Fundedelite LTDPlatform:Match TraderMT5TradeLockerPayment Methods:Credit/Debit CardCryptoPayout Methods:CryptoRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.68,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/fundedelite",
+        "crawled_at": "2026-04-30T16:23:38.626Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\fundedelite.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Moneta Funded",
+      "slug": "moneta-funded",
+      "profile_url": "https://propfirmmatch.com/prop-firms/moneta-funded",
+      "website_url": null,
+      "country": "LC",
+      "list_metrics": {
+        "years_in_operation": null,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryMoneta Funded Firm AI SummaryMoneta Funded, established January 2026, offers CFD trading and provides three program types: Instant, 1 Step, and 2 Steps. The firm supports Match Trader and MT5 platforms and lists CFDs as its tradable instruments. Moneta Funded has a review score of 4.8 out of 5 based on 8 reviews. Its stated program options include an instant pathway and sequential evaluation pathways labeled 1 Step and 2 Steps, reflecting multiple approaches to entering its CFD programs. The overview above summarizes the...Show MoreFirm OverviewBroker:Moneta MarketsPlatform:Match TraderMT5Payment Methods:Apple PayCredit/Debit CardCryptoPayout Methods:CryptoMoneta Markets AccountRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.58,
+        "missing_fields": [
+          "list_metrics.years_in_operation",
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/moneta-funded",
+        "crawled_at": "2026-04-30T16:23:56.371Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\moneta-funded.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Finotive Funding",
+      "slug": "finotive-funding",
+      "profile_url": "https://propfirmmatch.com/prop-firms/finotive-funding",
+      "website_url": null,
+      "country": "AE",
+      "list_metrics": {
+        "years_in_operation": 5,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryFinotive Funding Firm AI SummaryFinotive Funding, based in the United Arab Emirates, was established in April 2021. The firm lists CFD as its instrument type and offers three program types: Instant, 1 Step, and 2 Steps. Supported trading platforms are Match Trader and MT5. The supplied review metrics show a score of 4.2 out of 5 based on 130 reviews. This overview summarizes the firm’s stated founding date, instrument and program offerings, platform support, and user review metrics as presented in the provided information.Firm OverviewBroker:Finotive Markets LLCPlatform:Match TraderMT5Payment Methods:Apple PayCredit/Debit CardCryptoFinotive PayGoogle PayPayPalPayout Methods:Bank Wire TransferCryptoFinotive PayIBANRevolutSEPA",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.63,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/finotive-funding",
+        "crawled_at": "2026-04-30T16:24:15.358Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\finotive-funding.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "AquaFunded",
+      "slug": "aquafunded",
+      "profile_url": "https://propfirmmatch.com/prop-firms/aquafunded",
+      "website_url": null,
+      "country": "AE",
+      "list_metrics": {
+        "years_in_operation": 2,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT4",
+          "MT5",
+          "cTrader",
+          "TradeLocker"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryAquaFunded Firm AI SummaryAquaFunded, based in the United Arab Emirates, was established in December 2023. The firm lists CFD instruments and offers program types including Instant, 1 Step, 2 Steps and 3 Steps. Account sizes range from $10,000 to $200,000. Platforms supported include Match Trader, cTrader, MT5, TradeLocker and MT4. Tradable assets include Forex, indices, commodities and cryptocurrencies, with leverage reported as 1:100 on Forex, 1:20 on indices and commodities, and 1:2 on cryptocurrencies. AquaFunded...Show MoreFirm OverviewBroker:Institutional Liquidity ProviderPlatform:cTraderMatch TraderMT5TradeLockerPayment Methods:Apple PayCredit/Debit CardCryptoKorapayPayout Methods:CryptoRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.63,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/aquafunded",
+        "crawled_at": "2026-04-30T16:24:35.211Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\aquafunded.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "QT Funded",
+      "slug": "qt-funded",
+      "profile_url": "https://propfirmmatch.com/prop-firms/qt-funded",
+      "website_url": null,
+      "country": "GB",
+      "list_metrics": {
+        "years_in_operation": 2,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "cTrader",
+          "TradeLocker"
+        ],
+        "max_allocation": null,
+        "profit_split": 80,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryQT Funded Firm AI SummaryQT Funded, based in the United Kingdom, was established in October 2023. It offers CFD trading and runs two program types: 2 Steps and Instant. Supported platforms include cTrader, MT5 and TradeLocker. Additional provided information names Quant Tekel as a licensed brokerage with a proprietary trading division, in-house technology and direct licenses for multiple trading platforms, and notes it was formerly known as Ascendx Capital following a strategic restructuring to expand services. The...Show MoreFirm OverviewBroker:Quant Tekel PTYPlatform:cTraderMT5TradeLockerPayment Methods:Apple PayCredit/Debit CardCryptoGoogle PayPayPalUPI Payment Payout Methods:Crypto",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.68,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/qt-funded",
+        "crawled_at": "2026-04-30T16:24:52.413Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\qt-funded.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "BEM Funding",
+      "slug": "bem-funding",
+      "profile_url": "https://propfirmmatch.com/prop-firms/bem-funding",
+      "website_url": null,
+      "country": "AE",
+      "list_metrics": {
+        "years_in_operation": 1,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "cTrader"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryBEM Funding Firm AI SummaryBEM Funding, based in the United Arab Emirates, was established in June 2024. The firm offers CFD and crypto trading and provides two program types, listed as 1 Step and 2 Steps. It supports the cTrader and DXTrade platforms for order execution and account management. Tradable instruments are described as contracts for difference and cryptocurrencies. Public user feedback records a review score of 5/5 across 20 reviews. This overview presents the firm's stated offerings, platform support,...Show MoreFirm OverviewBroker:Commercial Liquidity ProviderExchange:BinanceBybitCommercial Liquidity ProviderIntegration:Direct APIExecution:SimulatedPlatform:cTraderDXTradePayment Methods:Credit/Debit CardCryptoKorapayPayPalStripePayout Methods:CryptoRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.63,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/bem-funding",
+        "crawled_at": "2026-04-30T16:25:11.699Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\bem-funding.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "ThinkCapital",
+      "slug": "thinkcapital",
+      "profile_url": "https://propfirmmatch.com/prop-firms/thinkcapital",
+      "website_url": null,
+      "country": "GB",
+      "list_metrics": {
+        "years_in_operation": 1,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryThinkCapital Firm AI SummaryThinkCapital, based in the United Kingdom, was established in June 2024. The firm offers CFD trading and lists three program types: 1 Step, 2 Steps and 3 Steps. Trading is supported via the ThinkTrader platform. The firm’s public profile includes a review score of 4.2 out of 5 from 55 reviews. ThinkCapital’s offering centres on CFD instruments delivered through the stated multi-step program structure and accessed on ThinkTrader. The foregoing is a concise summary of the attributes provided...Show MoreFirm OverviewBroker:ThinkMarketsPlatform:ThinkTraderPayment Methods:Credit/Debit CardCryptoPayout Methods:CryptoRiseworksThinkMarkets Live Account",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": null,
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.58,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": [
+          "profile_detail.rules: all sub-fields are null"
+        ]
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/thinkcapital",
+        "crawled_at": "2026-04-30T16:25:29.626Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\thinkcapital.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Atmos Funded",
+      "slug": "atmos-funded",
+      "profile_url": "https://propfirmmatch.com/prop-firms/atmos-funded",
+      "website_url": null,
+      "country": "CY",
+      "list_metrics": {
+        "years_in_operation": 1,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5"
+        ],
+        "max_allocation": null,
+        "profit_split": 80,
+        "assets": [
+          "FX"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryAtmos Funded Firm AI SummaryAtmos Funded, based in Cyprus and established in November 2024, offers CFD trading and lists three program types: Instant, 1 Step and 2 Steps. The firm supports the MT5 platform for trading. Offerings are described as CFD instruments; no additional asset classes or leverage details are provided in the supplied information. Public feedback shows a review score of 4.4/5 from 14 reviews. Atmos Funded is a recently established Cyprus-based prop trading firm that provides multiple program variants...Show MoreFirm OverviewBroker:TaurexPlatform:MT5Payment Methods:AirtelApple PayBlikBoletoCredit/Debit CardCryptoDANAEfectyFCMBFPXGcashGoogle PayIdealKhipuLocal Payment MethodsLoteriasMayaMobile MoneyM-PesaMultibancoMYR (e-wallet)OVOOXXOP24PayPalPicpay (e-wallet)PixQR PaymentSPEIUPI IntentVDN QRWebpayPayout Methods:Bank TransferBroker Profit TransferCrypto",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.72,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/atmos-funded",
+        "crawled_at": "2026-04-30T16:25:46.876Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\atmos-funded.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Top One Trader",
+      "slug": "top-one-trader",
+      "profile_url": "https://propfirmmatch.com/prop-firms/top-one-trader",
+      "website_url": null,
+      "country": "US",
+      "list_metrics": {
+        "years_in_operation": 2,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "MetaTrader 5",
+          "cTrader",
+          "TradeLocker"
+        ],
+        "max_allocation": null,
+        "profit_split": 80,
+        "assets": [
+          "FX"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryTop One Trader Firm AI SummaryTop One Trader, based in the United States and established in September 2023, offers CFD trading across multiple program structures. The firm lists three program types: Instant, 1 Step, and 2 Steps. Platforms supported include Match Trader, MT5, and TradeLocker. Tradable instruments are offered as CFDs. In review metrics, Top One Trader holds an aggregate score of 4.4 out of 5 from 153 reviews. The firm provides a selection of program paths and platform access for traders seeking CFD exposure.Firm OverviewBroker:Top One Trader LtdPlatform:Match TraderMT5TradeLockerPayment Methods:Apple PayCredit CardCryptoGoogle PayPayout Methods:Riseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": null,
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.67,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "profile_detail.challenges"
+        ],
+        "warnings": [
+          "profile_detail.rules: all sub-fields are null"
+        ]
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/top-one-trader",
+        "crawled_at": "2026-04-30T16:26:04.508Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\top-one-trader.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "FXIFY",
+      "slug": "fxify",
+      "profile_url": "https://propfirmmatch.com/prop-firms/fxify",
+      "website_url": null,
+      "country": "GB",
+      "list_metrics": {
+        "years_in_operation": 3,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5"
+        ],
+        "max_allocation": null,
+        "profit_split": 80,
+        "assets": [
+          "FX"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryFXIFY Firm AI SummaryFXIFY, based in the United Kingdom and established in April 2023, offers CFD trading across four program types: Instant, 1 Step, 2 Steps, and 3 Steps. Account sizes range from $15,000 to $400,000. Supported platforms are TradingView, MT5, and DXTrade. FXIFY provides access to over 100 instruments, including FX, metals, indices, and stocks; FX and Gold start at 30:1 leverage (option to increase to 50:1 at checkout), while indices are offered at 10:1. The firm’s evaluation rules include a 1 Step...Show MoreFirm OverviewBroker:Alchemy MarketsFXPIGPlatform:DXTradeMT5TradingViewPayment Methods:Apple PayCredit/Debit CardCryptoGoogle PayMobile MoneyPayPalPayout Methods:Bank TransferCryptoRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.72,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/fxify",
+        "crawled_at": "2026-04-30T16:26:23.643Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\fxify.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "ATFunded",
+      "slug": "atfunded",
+      "profile_url": "https://propfirmmatch.com/prop-firms/atfunded",
+      "website_url": null,
+      "country": "VC",
+      "list_metrics": {
+        "years_in_operation": 1,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5"
+        ],
+        "max_allocation": null,
+        "profit_split": 75,
+        "assets": [
+          "FX"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "Firm OverviewBroker:ATFXPlatform:MT5Payment Methods:BlikCredit/Debit CardCryptoEpayMACHMBWayMultibancoMybankNetellerPagoEfectivoPixPrzelewy24Rapid TransferSkrillPayout Methods:Bank Wire TransferBroker Profit TransferCrypto",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.72,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/atfunded",
+        "crawled_at": "2026-04-30T16:26:41.764Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\atfunded.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Fintokei",
+      "slug": "fintokei",
+      "profile_url": "https://propfirmmatch.com/prop-firms/fintokei",
+      "website_url": null,
+      "country": "CZ",
+      "list_metrics": {
+        "years_in_operation": 3,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT4",
+          "MT5",
+          "cTrader"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": [
+          "FX"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "Firm OverviewBroker:Purple Trading SeychellesPlatform:cTraderMT4MT5TradingViewPayment Methods:Apple PayCredit/Debit CardCryptoGoogle PayWire TransferPayout Methods:Bank Wire TransferCrypto",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.67,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/fintokei",
+        "crawled_at": "2026-04-30T16:26:59.126Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\fintokei.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Funded Trading Plus",
+      "slug": "funded-trading-plus",
+      "profile_url": "https://propfirmmatch.com/prop-firms/funded-trading-plus",
+      "website_url": null,
+      "country": "GB",
+      "list_metrics": {
+        "years_in_operation": 4,
+        "star_point": null,
+        "review_count": 20,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "cTrader"
+        ],
+        "max_allocation": null,
+        "profit_split": 80,
+        "assets": [
+          "FX"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "Firm OverviewBroker:Funded Trading Plus Ltd.Platform:cTraderDXTradeMatch TraderMT5Payment Methods:Credit/Debit CardCryptoPayout Methods:Bank TransferCrypto",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": null,
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.67,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "profile_detail.challenges"
+        ],
+        "warnings": [
+          "profile_detail.rules: all sub-fields are null"
+        ]
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/funded-trading-plus",
+        "crawled_at": "2026-04-30T16:27:16.644Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\funded-trading-plus.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Instant Funding",
+      "slug": "instant-funding",
+      "profile_url": "https://propfirmmatch.com/prop-firms/instant-funding",
+      "website_url": null,
+      "country": "GB",
+      "list_metrics": {
+        "years_in_operation": 3,
+        "star_point": null,
+        "review_count": 339,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT4",
+          "MT5",
+          "cTrader"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": [
+          "Crypto"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryInstant Funding Firm AI SummaryInstant Funding, based in the United Kingdom and established in June 2022, offers CFD trading and provides Instant, 1 Step, and 2 Steps evaluation programs. Account sizes range from $1,250 to $200,000. Platforms supported include Match Trader, cTrader, MT5 and MT4. Tradable asset classes include FX (Forex), commodities, indices and cryptocurrencies, with leverage of up to 100:1. The firm lists multiple entry paths to funded accounts and has a review score of 3.9/5 based on 339 reviews. This...Show MoreFirm OverviewBroker:Liquidity ProviderPlatform:cTraderMatch TraderMT5Payment Methods:Apple PayCredit/Debit CardCryptoGoogle PayNetellerSkrillSofortPayout Methods:CryptoRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": null,
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.62,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "profile_detail.challenges"
+        ],
+        "warnings": [
+          "profile_detail.rules: all sub-fields are null"
+        ]
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/instant-funding",
+        "crawled_at": "2026-04-30T16:27:35.854Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\instant-funding.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Hantec Trader",
+      "slug": "hantec-trader",
+      "profile_url": "https://propfirmmatch.com/prop-firms/hantec-trader",
+      "website_url": null,
+      "country": "MU",
+      "list_metrics": {
+        "years_in_operation": 2,
+        "star_point": null,
+        "review_count": 28,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT4",
+          "MT5"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": [
+          "Crypto"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryHantec Trader Firm AI SummaryHantec Trader, based in Mauritius, was established in December 2023. The firm offers CFD trading and provides three program types, named 1 Step, Instant, and 2 Steps. Trading access is available via the MT5 and MT4 platforms. Publicly listed review data shows Hantec Trader with an average score of 4.4 out of 5 across 28 reviews. The available information describes the firm's product focus as CFD trading delivered through MetaTrader platforms and identifies three program options. Hantec Trader...Show MoreFirm OverviewBroker:Hantec MarketsPlatform:MT4MT5Payment Methods:BoletoCoDiCredit/Debit CardCryptoDANADirect BankingKhipuLocal Wire TransferMBWayMobile MoneyMultibancoNetellerOVOPagoEfectivoPayPalPixPSESEPASkrillSPEIThai QRPayout Methods:Bank TransferCryptoLocal Wire TransferNetellerPayPalPIXSkrillSPEIThai QR",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.67,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/hantec-trader",
+        "crawled_at": "2026-04-30T16:27:53.325Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\hantec-trader.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Lark Funding",
+      "slug": "lark-funding",
+      "profile_url": "https://propfirmmatch.com/prop-firms/lark-funding",
+      "website_url": null,
+      "country": "CA",
+      "list_metrics": {
+        "years_in_operation": 3,
+        "star_point": null,
+        "review_count": 82,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT4",
+          "MT5",
+          "cTrader"
+        ],
+        "max_allocation": null,
+        "profit_split": 80,
+        "assets": [
+          "Crypto"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryLark Funding Firm AI SummaryLark Funding, based in Canada, was established in June 2022. It offers CFD trading and a range of program types including Instant, 1 Step, 2 Steps and 3 Steps. Account sizes are stated to range from $5,000 to $1,000,000. Platforms supported include Match Trader, cTrader, DXTrade, MT4 and MT5. The firm lists tradable instruments as 40+ major and minor Forex pairs, 100+ crypto derivatives and major US, Australian, LSE and XETRA stocks; leverage varies by evaluation: in the 1‑stage evaluation...Show MoreFirm OverviewBroker:Multiple Liquidity ProvidersPlatform:cTraderDXTradeMatch TraderPayment Methods:Credit/Debit CardCryptoPayout Methods:Riseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.72,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/lark-funding",
+        "crawled_at": "2026-04-30T16:28:10.083Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\lark-funding.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "City Traders Imperium",
+      "slug": "city-traders-imperium",
+      "profile_url": "https://propfirmmatch.com/prop-firms/city-traders-imperium",
+      "website_url": null,
+      "country": "AE",
+      "list_metrics": {
+        "years_in_operation": 7,
+        "star_point": null,
+        "review_count": 53,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5"
+        ],
+        "max_allocation": null,
+        "profit_split": 80,
+        "assets": [
+          "Crypto"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryCity Traders Imperium Firm AI SummaryCity Traders Imperium, based in the United Arab Emirates, was established in July 2018. It is a proprietary trading firm offering CFD funded accounts with three program types: Instant, 1 Step, and 2 Steps. Traders pass an evaluation phase to qualify for funded accounts; initial funding amounts range from $1,000 to over $100,000 depending on the chosen program. Trading is supported on Match Trader and MT5. The firm operates a profit-sharing model and enforces program-specific risk-management...Show MoreFirm OverviewBroker:Institutional Liquidity Provider: BroctagonPlatform:Match TraderMT5Payment Methods:Apple PayCredit/Debit CardCryptoCTI WalletGoogle PayWire TransferPayout Methods:Bank TransferCrypto",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": null,
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.67,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "profile_detail.challenges"
+        ],
+        "warnings": [
+          "profile_detail.rules: all sub-fields are null"
+        ]
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/city-traders-imperium",
+        "crawled_at": "2026-04-30T16:28:28.379Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\city-traders-imperium.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Audacity Capital",
+      "slug": "audacity-capital",
+      "profile_url": "https://propfirmmatch.com/prop-firms/audacity-capital",
+      "website_url": null,
+      "country": "GB",
+      "list_metrics": {
+        "years_in_operation": 14,
+        "star_point": null,
+        "review_count": 46,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5"
+        ],
+        "max_allocation": null,
+        "profit_split": 60,
+        "assets": [
+          "Crypto"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryAudacity Capital Firm AI SummaryAudacity Capital, based in the United Kingdom, was established in March 2012. The firm offers CFD trading and provides program types labeled Instant, 2 Steps, and 1 Step. Account sizes range from $10,000 to $240,000. Supported platforms include MT5 and DXTrade. Tradable assets include currencies, indices, and commodities, and a leverage ratio of 100:1 is available. Its two-step evaluation program requires traders to meet a 10% profit target in both phases, and a maximum total drawdown of 10%...Show MoreFirm OverviewBroker:Commercial Liquidity ProviderPlatform:DXTradeMT5Payment Methods:Credit/Debit CardCryptoPayPalPayout Methods:Bank TransferCryptoPayPalRiseworks",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": null,
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.67,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "profile_detail.challenges"
+        ],
+        "warnings": [
+          "profile_detail.rules: all sub-fields are null"
+        ]
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/audacity-capital",
+        "crawled_at": "2026-04-30T16:28:44.886Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\audacity-capital.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "Crypto Fund Trader",
+      "slug": "crypto-fund-trader",
+      "profile_url": "https://propfirmmatch.com/prop-firms/crypto-fund-trader",
+      "website_url": null,
+      "country": "CH",
+      "list_metrics": {
+        "years_in_operation": 3,
+        "star_point": null,
+        "review_count": 100,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [
+          "MT5",
+          "Match-Trader"
+        ],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": [
+          "Crypto"
+        ]
+      },
+      "profile_detail": {
+        "overview_text": "Firm OverviewBroker:Liquidity Data Feed ProviderExchange:BybitIntegration:Direct APIExecution:SimulatedPlatform:BybitCFT Platform (MatchTrader)MT5Payment Methods:Credit/Debit CardCryptoPayPalPayout Methods:Bank TransferCrypto",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 20,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": ", and Platforms",
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.67,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "profile_detail.challenges"
+        ],
+        "warnings": []
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/prop-firms/crypto-fund-trader",
+        "crawled_at": "2026-04-30T16:29:02.810Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\crypto-fund-trader.html",
+        "parser_version": "1.0.0"
+      }
+    },
+    {
+      "firm_name": "new",
+      "slug": "lucid-trading",
+      "profile_url": "https://propfirmmatch.com/futures/prop-firms/lucid-trading",
+      "website_url": null,
+      "country": "US",
+      "list_metrics": {
+        "years_in_operation": 1,
+        "star_point": null,
+        "review_count": 31,
+        "payout_proof_status": "available",
+        "payout_proof_count": null,
+        "platforms": [],
+        "max_allocation": null,
+        "profit_split": null,
+        "assets": []
+      },
+      "profile_detail": {
+        "overview_text": "AI SummaryLucid Trading Firm AI SummaryLucid Trading, based in the United States, was established in March 2025. The firm focuses on futures and offers two program types: Instant and 1 Step. Supported trading platforms include Bookmap, Sierra Chart, MotiveWave, Jigsaw Daytradr, MultiCharts, Quantower, R Trader Pro, Tradovate, NinjaTrader, ATAS Orderflow Trading, and Tradesea Tradingview. It has a review score of 4.6/5 from 31 reviews. Lucid Trading is a futures-focused proprietary trading firm that provides program options and...Show MoreFirm OverviewBroker:DormanNinjaTrader Platform:ATAS Orderflow TradingBookmapJigsaw DaytradrMotiveWaveMultiChartsNinjaTraderQuantowerR Trader ProSierra ChartTradesea TradingviewTradovatePayment Methods:Credit/Debit CardPayout Methods:CryptoPlaidWorkMarket",
+        "challenges": [],
+        "offer": {
+          "offer_text": null,
+          "discount_percent": 40,
+          "coupon_code": "Forex",
+          "valid_until": null
+        },
+        "payout": {
+          "payout_frequency": "monthly",
+          "first_payout_days": null,
+          "min_payout": null,
+          "payout_methods": [
+            "Crypto"
+          ],
+          "payout_proof_url": null
+        },
+        "rules": {
+          "raw_rules_text": null,
+          "news_trading_rule": null,
+          "copy_trading_rule": null,
+          "ea_allowed": null,
+          "weekend_holding_allowed": null,
+          "lot_size_limit": null,
+          "consistency_rule": null,
+          "kyc_restriction": null,
+          "hidden_rule_flags": []
+        }
+      },
+      "risk_evidence": [],
+      "data_quality": {
+        "data_confidence": 0.54,
+        "missing_fields": [
+          "list_metrics.star_point",
+          "list_metrics.platforms",
+          "list_metrics.max_allocation",
+          "list_metrics.profit_split",
+          "list_metrics.assets",
+          "profile_detail.challenges"
+        ],
+        "warnings": [
+          "profile_detail.rules: all sub-fields are null"
+        ]
+      },
+      "crawl_metadata": {
+        "source_url": "https://propfirmmatch.com/futures/prop-firms/lucid-trading",
+        "crawled_at": "2026-04-30T16:29:23.160Z",
+        "raw_snapshot_file": "D:\\HaUI\\KopyMatch\\playwright\\artifacts\\raw\\propfirmmatch\\lucid-trading.html",
+        "parser_version": "1.0.0"
+      }
+    }
+  ],
+  "errors": []
+}

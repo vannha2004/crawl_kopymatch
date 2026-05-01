@@ -46,7 +46,15 @@
     "innerloop": "playwright run-server --reuse-browser",
     "test-playwright-cli": "playwright test --config=tests/mcp/playwright.config.ts --project=chrome cli-",
     "playwright-cli": "node packages/playwright-core/lib/tools/cli-client/cli.js",
-    "playwright-cli-readme": "node utils/generate_cli_help.js --readme"
+    "playwright-cli-readme": "node utils/generate_cli_help.js --readme",
+    "crawl:binance-copy-traders": "node scripts/binance-copy-traders.mjs",
+    "crawl:bybit-copy-traders": "node scripts/bybit-copy-traders.mjs",
+    "crawl:okx-copy-traders": "node scripts/okx-copy-traders.mjs",
+    "crawl:gate-copy-traders": "node scripts/gate-copy-traders.mjs",
+    "crawl:kucoin-copy-traders": "node scripts/kucoin-copy-traders.mjs",
+    "crawl:bitget-copy-traders": "node scripts/bitget-copy-traders.mjs",
+    "crawl:propfirms": "node scripts/crawl_propfirm/crawl-propfirms.mjs",
+    "test:propfirm-utils": "node scripts/crawl_propfirm/test-utils.mjs"
   },
   "workspaces": [
     "packages/*"
